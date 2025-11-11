@@ -1,0 +1,1 @@
+// Pasta postit: módulo principal (criação e renderização dos post-its)

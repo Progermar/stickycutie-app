@@ -1,0 +1,1 @@
+// Pasta utils: helpers genéricos (logger, animação, dom)

@@ -1,0 +1,1 @@
+// Pasta i18n: internacionalização (pt, en, es)

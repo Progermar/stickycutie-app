@@ -1,0 +1,1 @@
+// Pasta storage: salvar e carregar dados localmente
